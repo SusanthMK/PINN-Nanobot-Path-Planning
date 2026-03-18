@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![AI](https://img.shields.io/badge/AI-PINNs-red)
+![Simulation](https://img.shields.io/badge/Type-Simulation-orange)
+![Nanobot](https://img.shields.io/badge/Domain-Nanotechnology-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 # PINNs-Infused PLGA-Based Nanobot System for In-Silico Cardiovascular Disease Detection
 
 ## Overview
